@@ -5,9 +5,4 @@ matplotlib
 seaborn
 scipy
 tensorflow
-# keras
-# torch
-# torchvision
-# transformers    
-nltk
-
+transformers    
